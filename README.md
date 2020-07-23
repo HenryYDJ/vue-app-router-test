@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Video Tutorial
+https://vueschool.io/lessons/vuejs-router-creating-routes
